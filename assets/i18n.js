@@ -48,7 +48,7 @@ const translations = {
     // Hero About
     "about.hero.bio": "Cybersecurity professional based in Barcelona with hands-on experience in vulnerability assessment, SIEM monitoring, systems administration, and network security. Passionate about building secure infrastructure and hunting threats.",
     "about.hero.stat.exp": "months exp.",
-    "about.hero.stat.project": "project",
+    "about.hero.stat.project": "projects",
     "about.hero.stat.langs": "languages",
 
     // Work Experience
@@ -147,9 +147,9 @@ const translations = {
     "about.project.1.github": "GitHub",
     "about.project.1.demo": "Watch Demo",
 
-    "about.project.2.placeholder": "Coming soon",
-    "about.project.2.desc": "Next project in development",
-
+    "about.project.2.name": "Burblit",
+    "about.project.2.desc": "End-to-end encrypted web messaging prototype with post-quantum considerations. Built with TypeScript and modern cryptographic primitives for forward secrecy and quantum resistance.",
+    "about.project.2.github": "GitHub",
     // Contact
     "about.contact.label": "Get in touch",
     "about.contact.title": "Contact",
@@ -206,7 +206,7 @@ const translations = {
     // Hero About
     "about.hero.bio": "Profesional de ciberseguridad en Barcelona con experiencia práctica en evaluación de vulnerabilidades, monitorización SIEM, administración de sistemas y seguridad de redes. Apasionado por construir infraestructura segura y la caza de amenazas.",
     "about.hero.stat.exp": "meses exp.",
-    "about.hero.stat.project": "proyecto",
+    "about.hero.stat.project": "proyectos",
     "about.hero.stat.langs": "idiomas",
 
     // Work Experience
@@ -305,8 +305,9 @@ const translations = {
     "about.project.1.github": "GitHub",
     "about.project.1.demo": "Ver Demo",
 
-    "about.project.2.placeholder": "Próximamente",
-    "about.project.2.desc": "Próximo proyecto en desarrollo",
+    "about.project.2.name": "Burblit",
+    "about.project.2.desc": "Prototipo de mensajería web cifrada de extremo a extremo con consideraciones poscuánticas. Construido con TypeScript y primitivas criptográficas modernas para forward secrecy y resistencia cuántica.",
+    "about.project.2.github": "GitHub",
 
     // Contact
     "about.contact.label": "Contacto",
