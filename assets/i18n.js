@@ -73,7 +73,7 @@ const translations = {
 
     "about.edu.1.degree": "BSc (Hons) Cyber Security and Networking",
     "about.edu.1.school": "University of Central Lancashire",
-    "about.edu.1.date": "2024 — 2026",
+    "about.edu.1.date": "2026 — 2026",
     "about.edu.1.mode": "Online",
 
     "about.edu.2.degree": "Master's in Cybersecurity Specialization",
@@ -231,7 +231,7 @@ const translations = {
 
     "about.edu.1.degree": "BSc (Hons) Cyber Security and Networking",
     "about.edu.1.school": "University of Central Lancashire",
-    "about.edu.1.date": "2024 — 2026",
+    "about.edu.1.date": "2026 — 2026",
     "about.edu.1.mode": "Online",
 
     "about.edu.2.degree": "Máster de Especialización en Ciberseguridad",
